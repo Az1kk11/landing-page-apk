@@ -27,7 +27,7 @@ export const Home: React.FC = () => {
                             <motion.a
                                 whileTap={{ scale: 0.9 }}
                                 className='text-download'
-                                href=''
+                                href='https://orfo-qareken.abbc.uz/api/download'
                                 download
                             >
                                 Júklep alıw <i className="ri-download-cloud-fill"></i>
